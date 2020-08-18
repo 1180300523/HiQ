@@ -3,6 +3,7 @@ var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
         "我会一直在你身边，你可以一次次向我确认。",
+        "I will just be there, you can always find me here.",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
